@@ -1,0 +1,21 @@
+.ql-editor{
+    height: 90vh;
+    width: 80vw;
+    padding: 2rem 10rem;
+    margin: auto;
+    margin-top: 0.5rem;
+
+}
+#container{
+    height: 90vh;
+    width: 80vw;
+    margin: auto;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+}
+.ql-toolbar{
+    width: 80vw;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
